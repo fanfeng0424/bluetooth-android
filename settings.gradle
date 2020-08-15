@@ -1,0 +1,6 @@
+include ':player'
+include ':connect'//include ':chat'
+//include ':oreo'
+include ':sample'
+include ':app'
+rootProject.name = "ble-demo"

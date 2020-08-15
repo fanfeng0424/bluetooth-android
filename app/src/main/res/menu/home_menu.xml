@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemBleSearch"
+        android:title="BLE搜索"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemBleAutoConn"
+        android:title="BLE自动连接"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemBtSearch"
+        android:title="设备搜索"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemBtAutoConn"
+        android:title="BT自动连接"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemRecorder"
+        android:title="录音"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/itemMusic"
+        android:title="播放音乐"
+        app:showAsAction="never" />
+</menu>
