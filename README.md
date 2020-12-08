@@ -240,3 +240,8 @@ public class BtUtil {
 最终实现效果如下图：
 
 ![mobile list](img/my_list.png)
+
+### 三，gatt
+
+todo comm with ble by gatt
+
